@@ -1,4 +1,4 @@
-[![Source's github stats](https://github-readme-stats.vercel.app/api?username=ParanoidAndroid19&count_private=true&show_icons=true&hide=stars&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParanoidAndroid19&layout=compact&hide=swift)](https://github.com/anuraghazra/github-readme-stats)
+[![Source's github stats](https://github-readme-stats.vercel.app/api?username=ParanoidAndroid19&count_private=true&show_icons=true&hide=stars&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParanoidAndroid19&layout=compact&hide=swift)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 <br/>
