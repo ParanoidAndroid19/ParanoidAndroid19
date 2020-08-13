@@ -1,7 +1,15 @@
-[![Source's github stats](https://github-readme-stats.vercel.app/api?username=ParanoidAndroid19&count_private=true&show_icons=true&hide=stars&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) <a href="http://ionicabizau.github.io/github-profile-languages/?user=ParanoidAndroid19">
+<!--[![Source's github stats](https://github-readme-stats.vercel.app/api?username=ParanoidAndroid19&count_private=true&show_icons=true&hide=stars&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="http://ionicabizau.github.io/github-profile-languages/?user=ParanoidAndroid19">
 <img width="364" height="387" src="https://user-images.githubusercontent.com/30766392/90112987-53c85380-dd6e-11ea-87e3-c9bcc124a7fc.png" />
 </a>
-
+-->
+<h4>Top Languages</h4>
+<a href="http://ionicabizau.github.io/github-profile-languages/?user=ParanoidAndroid19">
+<img width="243" height="244" src="https://user-images.githubusercontent.com/30766392/90114065-d43b8400-dd6f-11ea-9661-2f5924fde5c5.png" />
+</a>
+<a href="http://ionicabizau.github.io/github-profile-languages/?user=ParanoidAndroid19">
+<img width="142" height="168" src="https://user-images.githubusercontent.com/30766392/90114079-d867a180-dd6f-11ea-937a-b4f9137044d7.png" />
+</a>
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParanoidAndroid19&layout=compact&hide=swift)](https://github.com/anuraghazra/github-readme-stats)
