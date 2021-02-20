@@ -1,5 +1,5 @@
 <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ParanoidAndroid19&count_private=true&show_icons=true&hide=stars&include_all_commits=true&hide_rank=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ParanoidAndroid19&count_private=true&show_icons=true&hide=stars&include_all_commits=true&hide_rank=true&bg_color=ffffff00&hide_border=true" />
 </a>
 <a target="_blank" href="http://ionicabizau.github.io/github-profile-languages/?user=ParanoidAndroid19">
   <img width="203" height="204" src="https://user-images.githubusercontent.com/30766392/90114065-d43b8400-dd6f-11ea-9661-2f5924fde5c5.png" />
