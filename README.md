@@ -2,7 +2,7 @@
 
 ## 🛠️ My tools
 
-<p align="center">
+<p align="left">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black" width="auto" height="30">
   <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB" width="auto" height="30">
   <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white" width="auto" height="30">
